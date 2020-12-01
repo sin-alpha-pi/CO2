@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <SparkFun_SCD30_Arduino_Library.h>
 
 void setup() {
   // put your setup code here, to run once:
